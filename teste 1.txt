@@ -1,3 +1,2 @@
 este é o teste - novo branch - 2
-teste de add line
-add outher line
+terico de terço
